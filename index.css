@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+button{
+    background: blue;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    margin-left: 40px;
+}
+.displaybox{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    border: 1px solid gray;
+    height: 140px;
+    margin: 10px;
+}
+img{
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+}
